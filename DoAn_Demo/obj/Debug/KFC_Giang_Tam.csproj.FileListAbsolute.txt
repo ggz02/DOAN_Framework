@@ -1,0 +1,268 @@
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\obj\Debug\KFC_Giang_Tam.csproj.AssemblyReference.cache
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\obj\Debug\KFC_Giang_Tam.csproj.CoreCompileInputs.cache
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\obj\Debug\DoAn_Demo.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\obj\Debug\DoAn_Demo.pdb
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\DoAn_Demo.dll.config
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\DoAn_Demo.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\DoAn_Demo.pdb
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csc.exe
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csc.exe.config
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csc.rsp
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csi.exe
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csi.exe.config
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csi.rsp
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.AppContext.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Collections.Immutable.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Console.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Globalization.Calendars.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.IO.Compression.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.IO.FileSystem.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Net.Http.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Net.Sockets.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Reflection.Metadata.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.ValueTuple.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Xml.XPath.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\vbc.exe
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\vbc.exe.config
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\vbc.rsp
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\VBCSCompiler.exe
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\VBCSCompiler.exe.config
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\obj\Debug\KFC_Gian.2468ACD6.Up2Date
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\EntityFramework.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\EntityFramework.SqlServer.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.Bson.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\System.Buffers.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\System.Memory.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\System.Net.Http.Formatting.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\System.Numerics.Vectors.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\System.Threading.Tasks.Extensions.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\System.Web.Http.dll
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\EntityFramework.xml
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\EntityFramework.SqlServer.xml
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.xml
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.Bson.pdb
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.Bson.xml
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\System.Buffers.xml
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\System.Memory.xml
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\System.Net.Http.Formatting.xml
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\System.Numerics.Vectors.xml
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\System.Threading.Tasks.Extensions.xml
+D:\UFM 1\Nam3\HK2\Framework\Code\Editsau1604_2019\KFC_Giang_Tam\DoAn_Demo\bin\System.Web.Http.xml
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\DoAn_Demo.dll.config
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\DoAn_Demo.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\DoAn_Demo.pdb
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csc.exe
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csc.exe.config
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csc.rsp
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csi.exe
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csi.exe.config
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csi.rsp
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.AppContext.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Collections.Immutable.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Console.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Globalization.Calendars.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.IO.Compression.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.IO.FileSystem.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Net.Http.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Net.Sockets.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Reflection.Metadata.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.ValueTuple.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Xml.XPath.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\vbc.exe
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\vbc.exe.config
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\vbc.rsp
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\VBCSCompiler.exe
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\VBCSCompiler.exe.config
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\EntityFramework.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\EntityFramework.SqlServer.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.Bson.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Buffers.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Memory.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Net.Http.Formatting.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Numerics.Vectors.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Threading.Tasks.Extensions.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Web.Http.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\EntityFramework.xml
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\EntityFramework.SqlServer.xml
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.xml
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.Bson.pdb
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.Bson.xml
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Buffers.xml
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Memory.xml
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Net.Http.Formatting.xml
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Numerics.Vectors.xml
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Threading.Tasks.Extensions.xml
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Web.Http.xml
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\obj\Debug\KFC_Giang_Tam.csproj.AssemblyReference.cache
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\obj\Debug\KFC_Giang_Tam.csproj.CoreCompileInputs.cache
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\obj\Debug\KFC_Giang_Tam.csproj.CopyComplete
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\obj\Debug\DoAn_Demo.dll
+E:\ĐH\FrameWork\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\obj\Debug\DoAn_Demo.pdb
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\obj\Debug\KFC_Giang_Tam.csproj.AssemblyReference.cache
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\obj\Debug\KFC_Giang_Tam.csproj.CoreCompileInputs.cache
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\obj\Debug\DoAn_Demo.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\obj\Debug\DoAn_Demo.pdb
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\DoAn_Demo.dll.config
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\DoAn_Demo.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\DoAn_Demo.pdb
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csc.exe
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csc.exe.config
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csc.rsp
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csi.exe
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csi.exe.config
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\csi.rsp
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.AppContext.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Collections.Immutable.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Console.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Globalization.Calendars.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.IO.Compression.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.IO.FileSystem.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Net.Http.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Net.Sockets.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Reflection.Metadata.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.ValueTuple.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Xml.XPath.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\vbc.exe
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\vbc.exe.config
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\vbc.rsp
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\VBCSCompiler.exe
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\roslyn\VBCSCompiler.exe.config
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.ReportSource.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.Shared.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\EntityFramework.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\EntityFramework.SqlServer.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.Bson.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Buffers.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Memory.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Net.Http.Formatting.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Numerics.Vectors.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Threading.Tasks.Extensions.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Web.Http.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\stdole.dll
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\EntityFramework.xml
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\EntityFramework.SqlServer.xml
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.xml
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.Bson.pdb
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Newtonsoft.Json.Bson.xml
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Buffers.xml
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Memory.xml
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Net.Http.Formatting.xml
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Numerics.Vectors.xml
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Threading.Tasks.Extensions.xml
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\System.Web.Http.xml
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UFM 1\Nam3\HK2\Framework\DoAnNop\KFC_Giang_Tam1\KFC_Giang_Tam\KFC_Giang_Tam\DoAn_Demo\obj\Debug\KFC_Gian.2468ACD6.Up2Date

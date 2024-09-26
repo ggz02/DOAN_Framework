@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UFM 1\\Nam3\\HK2\\Framework\\DoAnNop\\KFC_Giang_Tam1\\KFC_Giang_Tam\\KFC_Giang_Tam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|DoAn_Demo\\KFC_Giang_Tam.csproj|d:\\ufm 1\\nam3\\hk2\\framework\\doannop\\kfc_giang_tam1\\kfc_giang_tam\\kfc_giang_tam\\doan_demo\\admin\\themsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|DoAn_Demo\\KFC_Giang_Tam.csproj|solutionrelative:doan_demo\\admin\\themsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|DoAn_Demo\\KFC_Giang_Tam.csproj|d:\\ufm 1\\nam3\\hk2\\framework\\doannop\\kfc_giang_tam1\\kfc_giang_tam\\kfc_giang_tam\\doan_demo\\admin\\themsanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEED0F4C-E790-4EAC-94C2-1C0019F2667B}|DoAn_Demo\\KFC_Giang_Tam.csproj|solutionrelative:doan_demo\\admin\\themsanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 52,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemSanPham.aspx",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK2\\Framework\\DoAnNop\\KFC_Giang_Tam1\\KFC_Giang_Tam\\KFC_Giang_Tam\\DoAn_Demo\\Admin\\ThemSanPham.aspx",
+              "RelativeDocumentMoniker": "DoAn_Demo\\Admin\\ThemSanPham.aspx",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK2\\Framework\\DoAnNop\\KFC_Giang_Tam1\\KFC_Giang_Tam\\KFC_Giang_Tam\\DoAn_Demo\\Admin\\ThemSanPham.aspx",
+              "RelativeToolTip": "DoAn_Demo\\Admin\\ThemSanPham.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T06:36:59.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThemSanPham.aspx.cs",
+              "DocumentMoniker": "D:\\UFM 1\\Nam3\\HK2\\Framework\\DoAnNop\\KFC_Giang_Tam1\\KFC_Giang_Tam\\KFC_Giang_Tam\\DoAn_Demo\\Admin\\ThemSanPham.aspx.cs",
+              "RelativeDocumentMoniker": "DoAn_Demo\\Admin\\ThemSanPham.aspx.cs",
+              "ToolTip": "D:\\UFM 1\\Nam3\\HK2\\Framework\\DoAnNop\\KFC_Giang_Tam1\\KFC_Giang_Tam\\KFC_Giang_Tam\\DoAn_Demo\\Admin\\ThemSanPham.aspx.cs",
+              "RelativeToolTip": "DoAn_Demo\\Admin\\ThemSanPham.aspx.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:34:40.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 347,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

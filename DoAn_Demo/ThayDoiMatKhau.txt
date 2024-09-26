@@ -1,0 +1,4 @@
+﻿---Thông tin tài khoản KFC của quý khách sau khi thay đổi mật khẩu---
+
+Tài Khoản: <%UserName%>
+Mật Khẩu vừa thay đổi: <%Password%>

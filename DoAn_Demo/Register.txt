@@ -1,0 +1,6 @@
+﻿Cảm ơn bạn đã đăng ký trở thành thành viên nhà KFC!
+
+Dưới đây là thông tin tài khoản và mật khẩu của bạn:
+
+  Tài khoản: <% UserName %>
+  Mật khẩu: <% Password %>
